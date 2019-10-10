@@ -14,3 +14,16 @@ body {
 	background-color: #2c2c2c;
 	color: antiquewhite;
 }
+.center {
+	height: calc(100vh - 56px);
+}
+.btn-light {
+	&:hover {
+		color: #f8f9fa;
+		background: #475563;
+	}
+}
+
+.guwno {
+	height: 400px;
+}
