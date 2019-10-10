@@ -4,22 +4,14 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
-
-
-/* ---------------------------------------------------
-    GLOBAL
------------------------------------------------------ */
-
-body {
-	background-color: #2c2c2c;
-	color: antiquewhite;
-}
 .center {
-	height: calc(100vh - 56px);
+	height: 100vh;
 }
-.btn-light {
-	&:hover {
-		color: #f8f9fa;
-		background: #475563;
-	}
+.list-item {
+	padding: 0;
+	padding-left: 5px;
+	font-size: 14px;
+}
+.mealThumb {
+	height: 420px;
 }
