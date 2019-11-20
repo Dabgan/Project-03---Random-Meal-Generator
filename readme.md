@@ -2,7 +2,7 @@
 
 This application generates you a random meal based on  API from [TheMealDB](https://www.themealdb.com) site.
 
-You can check the demo [here](https://dabgan.github.io/project03-Random-meal-generator.html).
+You can check the demo [here](https://dabgan.github.io/project%20demos/Project03-RandomMealGenerator/index.html).
 
 
 ## What did I learned?
